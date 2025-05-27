@@ -49,24 +49,29 @@ Explora mis proyectos y únete a mi viaje de crecimiento profesional. 🚀
 |-----|-------------|--------|
 | 📱 **IMC App** | Calculadora de índice de masa corporal | [📦 GitHub](https://github.com/Hyliard/AppIMCiOS) |
 | 🦸‍♂️ **Superhero Search** | Busca superhéroes por API | [📦 GitHub](https://github.com/Hyliard/SuperheroSearch) |
-| 📝 **ToDo List App** | Lista de tareas con SwiftUI | [📦 GitHub](https://github.com/Hyliard/TodoListApp) |
+| 📝 **ToDo List App** | Lista de tareas con SwiftUI | [📦 GitHub](https://github.com/Hyliard/productividad) |
+| 📱 **PassGeneator iOS | Generador de PassWords con SwiftUI | [📦 GitHub](https://github.com/Hyliard/passGeneratoriOS) |
 
 ---
 
 ### 🎓 Certificaciones y Cursos
 
-- 🧪 **Curso de Testing con Cypress y Selenium** – Udemy  
-- 💻 **Desarrollo Web con Angular 17** – Udemy  
-- 📱 **Swift y SwiftUI desde cero** – Udemy  
-- 📊 **Curso de PostgreSQL y SQL** – Udemy  
-- ☁️ **Fundamentos de AWS para QA y Devs** – Interno
+- 🧪 **Curso de Testing con Cypress y Selenium** – Udemy  - 2025
+- 💻 **Desarrollo Web con Angular 17** – Udemy  - 2025
+- 📱 **Swift y SwiftUI desde cero** – Udemy  - 2024 - 2025
+- 📊 **Curso de PostgreSQL y SQL** – Udemy  - 2025
+- ☁️ **Fundamentos de AWS para QA y Devs** – Interno 2024
+- 💻 **Desarrollo Full Stack - SocialOplesk - 2024 - 2025
 
 ---
 
-### 📫 Contacto
+### 📌 **Contacto / Redes**  
 
-- 📧 hyliard@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisgerardomartinez/)  
-- 🧑‍💻 [Portafolio Web](https://hyliard.github.io/)  
-- 🧠 Siempre aprendiendo y creando. ¡Gracias por pasar por aquí!
+- **📧 Email:** [luisgerardomartinezh@gmail.com](mailto:luisgerardomartinezh@gmail.com)  
+- **📞 Teléfono / WhatsApp:** [+54 9 11 6793-8649](https://wa.me/5491167938649) *(¡link directo a WhatsApp!)*  
+- **💼 LinkedIn:** [Hyliard - Luis Martínez](https://www.linkedin.com/in/hyliard/)  
+- **🌐 Portafolio Web:** [hyliard.github.io](https://hyliard.github.io/)  
+
+**🧠 ¡Siempre aprendiendo y creando!**  
+*Gracias por pasar por aquí. 😊*  
 
