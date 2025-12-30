@@ -104,7 +104,7 @@ Siempre buscando nuevos desafíos y oportunidades para crecer. 🚀
 - **📧 Email:** [luisgerardomartinezh@gmail.com](mailto:luisgerardomartinezh@gmail.com)  
 - **📞 WhatsApp:** [+54 9 11 6793-8649](https://wa.me/5491167938649)  
 - **💼 LinkedIn:** [Hyliard - Luis Martínez](https://www.linkedin.com/in/hyliard/)  
-- **🌐 Portafolio Web:** [hyliard.github.io](https://hyliard.github.io/)
+- **🌐 Portafolio Web:** [hyliard.github.io](https://hyliard.github.io/Portafolio/index.html)
 
 ---
 
